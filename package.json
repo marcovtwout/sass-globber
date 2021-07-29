@@ -24,8 +24,6 @@
   },
   "homepage": "https://github.com/Sebastian-Fitzner/sass-globbing#readme",
   "dependencies": {
-    "glob": "^5.0.10",
-    "mkdirp": "^0.5.1",
-    "path": "^0.11.14"
+    "glob": "^5.0.10"
   }
 }
