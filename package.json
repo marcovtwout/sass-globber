@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Sebastian-Fitzner/sass-globbing#readme",
   "dependencies": {
-    "glob": "^5.0.10"
+    "glob": "^7.1.7"
   }
 }
