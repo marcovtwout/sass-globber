@@ -25,7 +25,6 @@
   "homepage": "https://github.com/Sebastian-Fitzner/sass-globbing#readme",
   "dependencies": {
     "chalk": "^1.0.0",
-    "chokidar": "^1.6.0",
     "glob": "^5.0.10",
     "mkdirp": "^0.5.1",
     "path": "^0.11.14"
